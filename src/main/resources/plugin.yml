@@ -1,0 +1,12 @@
+name: Itsdgaming
+version: '${project.version}'
+main: me.itsdgaming.itsdgaming.Main
+api-version: 1.17
+authors: [ Itsdgaming ]
+description: Custom plugin
+website: www.twitch.tv/itsdgaming
+commands:
+  test:
+    description: Test command
+    usage: /<command>
+    aliases: [testing, testme, hi]
