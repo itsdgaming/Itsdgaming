@@ -10,3 +10,7 @@ commands:
     description: Test command
     usage: /<command>
     aliases: [testing, testme, hi]
+  discord:
+    description: Discord Command
+    usage: /<command>
+    aliases:
